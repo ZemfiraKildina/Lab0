@@ -68,10 +68,10 @@ int main()
 
 ## Ссылки на используемые материалы
 
-[Язык разметки MarkDown](https://doka.guide/tools/markdown/)
-[Первые шаги в GitHub](https://habr.com/ru/companies/yandex_praktikum/articles/700708/)
-[Основы Git](https://git-scm.com/book/ru/v2)
-[Что такое Git и для чего он нужен](https://practicum.yandex.ru/blog/chto-takoe-git-i-dlya-chego-nuzhen/)
+- [Язык разметки MarkDown](https://doka.guide/tools/markdown/)
+- [Первые шаги в GitHub](https://habr.com/ru/companies/yandex_praktikum/articles/700708/)
+- [Основы Git](https://git-scm.com/book/ru/v2)
+- [Что такое Git и для чего он нужен](https://practicum.yandex.ru/blog/chto-takoe-git-i-dlya-chego-nuzhen/)
 
 # Шпаргалка по работе с `git`
 
